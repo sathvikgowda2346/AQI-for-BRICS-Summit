@@ -1,3 +1,6 @@
+<img width="1883" height="915" alt="Screenshot 2026-09-03 201847" src="https://github.com/user-attachments/assets/ce16fabf-a842-4c3d-a1ae-6a66d3602ea3" />
+<img width="1902" height="917" alt="Screenshot 2026-09-03 201906" src="https://github.com/user-attachments/assets/bae516d4-49a5-4a6d-a1c5-34d1888b9623" />
+<img width="1882" height="917" alt="Screenshot 2026-09-03 201922" src="https://github.com/user-attachments/assets/c6f28598-4d62-4cbd-b959-8d214ab25243" />
 # Aeromesh — Federated Air Intelligence for BRICS
 
 ## Introduction
